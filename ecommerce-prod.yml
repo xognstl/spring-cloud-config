@@ -1,6 +1,6 @@
 token:
-  expiration_time: 864000000
-  secret: my_token_prod
+  expiration_time: 86400000
+  secret: user_token_prod
 
 gateway:
-  ip: 192.168.0.8
+  ip: 127.0.0.1
